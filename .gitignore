@@ -1,0 +1,5 @@
+build/
+*.o
+*.exe
+project_mayhem
+.DS_Store
